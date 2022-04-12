@@ -179,7 +179,7 @@ footer{
 		margin-bottom: 50px;
 	}
 	.grid-posts .card-img-top{
-		height: 100%;
+		height: auto;
 		width: 100%;
 	}
 }
